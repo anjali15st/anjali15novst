@@ -1,0 +1,11 @@
+Defects for chair:-
+1.Balance should be proper
+2.chair's Height or length must be proper
+3.Remove Chair's with wheels properly
+4.If folding chair must fold properly
+5.Must be comfortable to seat
+6.Chair's Material must be good else it will break
+7.weight must be proper
+8.It can't be noiseable else it is defect
+9.Also check cusion is provide with chair or not
+10.Also check Chair's material not changing by climate or wheather.

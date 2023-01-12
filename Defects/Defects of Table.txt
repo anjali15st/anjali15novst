@@ -1,0 +1,11 @@
+Defects for Table:-
+1.Balance should be proper
+2.Must be light weight
+3.If table is folded than it must be fold properly
+4.Table's corner must be sharp else it is defect
+5.Table's material must be good else it can not look good.
+6.If table is hanging than it must be hang properly else it can fall down.
+7.If table is attach with charging points than must be carefully else it can get current so that must be big defect.
+8.If table had wheels than it must scroll properly
+9.If table has study lamp on it so it is necessary that is doesn't affect on the table.
+10.If table has a space of put pen/pencil it must have clear space else it is error.4
